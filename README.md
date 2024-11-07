@@ -2,7 +2,7 @@
 
 Meu nome é Eduardo Cardoso
 
-- Estou estudando na Alura
+- Estou estudando na [Alura](https://www.alura.co.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos
 
@@ -12,5 +12,4 @@ Meu nome é Eduardo Cardoso
 
  @eduardocardoso23
 
-
- ![](https://tenor.com/9CaV.gif)
+![](https://tenor.com/9CaV.gif)
